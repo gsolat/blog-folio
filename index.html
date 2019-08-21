@@ -12,8 +12,11 @@ layout: default
         {{ post.excerpt }}
         {{ post.meta }}
       </div>
+      
+      <div class="btn">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
