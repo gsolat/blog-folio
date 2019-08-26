@@ -70,6 +70,8 @@ h4 {
 
 p {
   margin: 15px 0;
+  font-weight: 100;
+  line-height: 1.5;
 }
 
 a {
@@ -122,6 +124,7 @@ img {
 
 .date {
   font-style: italic;
+  font-size: .7em;
   color: $gray;
 }
 
@@ -251,6 +254,20 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+}
+
+.posts > .post > .post-title > h1 {
+  font-size: 1em;
+}
+
+.posts > .post > .post-title a:focus, a:active {
+  font-size: 1em;
+  font-weight: 400;
+  border: 0;
+}
+
+.post > .post-title > h1 {
+  font-size: 1em;
 }
 
 .posts > .post:last-child {
