@@ -6,18 +6,34 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
+        <div class="post-image">
+            <img src="{{ site.baseurl }}/images/{{ post.image }}">
+        </div>
+
         <div class="post-title">
             <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         </div>
+        
+        <div class="post-categories">
+            {% if post %}
+              {% assign categories = post.categories %}
+            {% else %}
+              {% assign categories = page.categories %}
+            {% endif %}
+            {% for category in categories %}
+            <a href="{{site.baseurl}}/categories/#{{category|slugize}}">#{{category}}</a>
+            {% unless forloop.last %}&nbsp;{% endunless %}
+            {% endfor %}
+        </div>
 
-      <div class="entry">
-        {{ post.excerpt }}
-        {{ post.meta }}
-      </div>
+        <div class="entry">
+            <!-- {{ post.excerpt }} -->
+            {{ post.meta }}
+        </div>
 
-      <div class="btn">
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      </div>
+        <div class="btn">
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Ver más</a>
+        </div>
 
     </article>
   {% endfor %}

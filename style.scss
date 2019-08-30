@@ -252,12 +252,13 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding-bottom: 6em;
   border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post > .post-title > h1 {
   font-size: 1em;
+  margin-bottom: 0;
 }
 
 .posts > .post > .post-title a:focus, a:active {
@@ -273,6 +274,21 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+}
+.posts > .post > .post-categories a , a:active, a:focus {
+    font-size: .7em;
+    font-weight: 100;
+    border: 0;
+}
+
+.post > .post-categories a , a:active, a:focus {
+    font-size: .7em;
+    font-weight: 100;
+    border: 0;
+}
+
+.entry {
+    font-weight: 100;
 }
 
 .post {
