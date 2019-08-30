@@ -191,6 +191,12 @@ img {
 .site-info {
   float: left;
 
+.site-info a, a:active, a:focus {
+    font-size: inherit;
+    font-weight: 100;
+    border: 0;
+}
+
   @include mobile {
     float: none;
     display: block;
@@ -275,13 +281,13 @@ nav {
   padding-bottom: 1em;
   border-bottom: none;
 }
-.posts > .post > .post-categories a , a:active, a:focus {
+.posts > .post > #index-tags a , a:active, a:focus {
     font-size: .7em;
     font-weight: 100;
     border: 0;
 }
 
-.post > .post-categories a , a:active, a:focus {
+.post > #post-tags a , a:active, a:focus {
     font-size: .7em;
     font-weight: 100;
     border: 0;
@@ -289,6 +295,10 @@ nav {
 
 .entry {
     font-weight: 100;
+
+    @include mobile {
+      font-size: .7em;
+    }
 }
 
 .post {

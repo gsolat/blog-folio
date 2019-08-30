@@ -13,8 +13,8 @@ layout: default
         <div class="post-title">
             <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         </div>
-        
-        <div class="post-categories">
+
+        <div class="post-categories" id="index-tags">
             {% if post %}
               {% assign categories = post.categories %}
             {% else %}
