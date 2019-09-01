@@ -275,10 +275,15 @@ nav {
 
 .entry > h1 {
   font-size: 1em;
-  margin-bottom: 0;
+}
+.entry > h2 {
+  font-size: .7em;
 }
 .entry > p {
   margin-top: 0px;
+}
+.author {
+  font-size: .7em;
 }
 
 .posts > .post:last-child {
@@ -303,8 +308,9 @@ nav {
     border: 0;
 }
 
-.entry {
+.entry-meta {
     font-weight: 100;
+    font-size: .7em;
 
     @include mobile {
       font-size: .7em;
@@ -313,11 +319,11 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    margin: .5em .8em;
+    border-left: 1px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 1em;
     font-style: italic;
   }
 

@@ -23,7 +23,10 @@ layout: default
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
   </div> -->
-
+  <div class="author">
+      {{ page.author }}
+  </div>
+  
   <div class="date">
     {{ page.date | date: "%m/%d/%Y" }}
   </div>
