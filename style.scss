@@ -293,6 +293,12 @@ nav {
     border: 0;
 }
 
+#nav-links a , a:active, a:focus {
+    font-size: inherit;
+    font-weight: 100;
+    border: 0;
+}
+
 .entry {
     font-weight: 100;
 
