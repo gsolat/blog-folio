@@ -273,8 +273,12 @@ nav {
   border: 0;
 }
 
-.post > .post-title > h1 {
+.entry > h1 {
   font-size: 1em;
+  margin-bottom: 0;
+}
+.entry > p {
+  margin-top: 0px;
 }
 
 .posts > .post:last-child {
