@@ -2,9 +2,9 @@
 layout: post
 title: Caso de Éxito II
 author: Guillo Solano
-meta: Collage / 35 * 25 cm / 2018
+meta: 35 * 25 cm / 2018
 image: caso-de-exito-II.jpg
-categories:
+categories: Collage
 
 ---
 

@@ -12,7 +12,15 @@ layout: default
     {{ content }}
   </div>
 
-  <!-- <div class="post-categories" id="post-tags" >
+  <div class="author">
+      {{ page.author }}
+  </div>
+
+  <div class="date">
+    {{ page.date | date: "%m/%d/%Y" }}
+  </div>
+
+  <div class="post-categories" id="post-tags" >
       {% if post %}
         {% assign categories = post.categories %}
       {% else %}
@@ -22,13 +30,6 @@ layout: default
       <a href="{{site.baseurl}}/categories/#{{category|slugize}}">#{{category}}</a>
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
-  </div> -->
-  <div class="author">
-      {{ page.author }}
-  </div>
-  
-  <div class="date">
-    {{ page.date | date: "%m/%d/%Y" }}
   </div>
 
   {% include disqus.html %}

@@ -2,9 +2,9 @@
 layout: post
 title: Poder Femenino
 author: Guillo Solano
-meta: Collage / 20 * 25 cm / 2018
+meta: 20 * 25 cm / 2018
 image: poder-femenino.jpg
-categories:
+categories: Collage
 
 ---
 

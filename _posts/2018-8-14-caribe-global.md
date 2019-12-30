@@ -2,9 +2,9 @@
 layout: post
 title: Caribe Global
 author: Guillo Solano
-meta: Dibujo digital / 29.7 * 42 cm / 2018
+meta:  29.7 * 42 cm / 2018
 image: caribe-global.png
-category: []
+category: [Ilustración Digital]
 
 ---
 

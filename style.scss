@@ -356,6 +356,24 @@ nav {
   }
 }
 
+#archives h1 {
+    font-size: 1em;
+}
+
+.archive-group h3 {
+    font-size: .8em;
+    font-weight: 300;
+}
+
+.archive-group h4 {
+    font-size: .8em;
+    font-weight: 300;
+}
+
+.archive-group a {
+    text-decoration: underline;
+}
+
 .wrapper-footer {
   margin-top: 50px;
   // border-top: 1px solid #ddd;
