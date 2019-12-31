@@ -4,9 +4,9 @@ layout: page
 permalink: /about/
 ---
 
-La continua reflexión sobre el individuo y la especie conduce a redefinir la obra para encontrar el sentido entre las piezas y profundizar la percepción más allá de la superficialidad dominante.
-
-Como exigencia para transitar entre los tiempos y mantener la rigurosidad del ser, se requiere tener claro el significado propio de la sensatez, la posibilidad de la desobediencia y la capacidad de resiliencia.
+.<br>
+La continua reflexión sobre el individuo y la especie conduce a redefinirse permanentemente y llevar la percepción más allá de la superficialidad dominante, hasta encontrar el sentido en medio del ruido.
+Creer en una versión del mundo es más saludable que tratar de verlo cómo realmente es, mantener esta rigurosidad en el ser requiere tener claro el significado propio de la sensatez, considerar la posibilidad de la desobediencia y asumir de manera resiliente los efectos debilitadores de la vida.
 
 
 [correo@guillosolano.com](mailto:correo@guillosolano.com)
