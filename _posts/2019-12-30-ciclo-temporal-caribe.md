@@ -14,8 +14,16 @@ categories: [Ilustración Digital, Texto]
 # Ciclo Temporal Caribeño
 ## _Dibujo digital / 30 * 20 cm / 2018_
 
-# Cuando la historia se pierde en la memoria las comunidades naufragan en el olvido del eterno presente.
+>Año nuevo<br>
+Vida nueva<br>
+Más alegres los días serán<br>
+Año nuevo<br>
+Vida nueva<br>
+Con salud y con prosperidad<br>
+>
+>Billos Caracas Boys - Año Nuevo
 
+<br>
 *Homo Barranquillerus* vive en un tiempo cíclico, un permanente retorno sin principio ni final, un interminable presente. Avanza por la vida marcado por pasos medios, no conoce principios o finales y propósito de largo aliento, tampoco tiene una meta colectiva. Escribe su historia todos los días para borrarla al día siguiente, alimenta su atención con pequeños episodios que lo distraen de levantar la cabeza y ver más allá de las ilusiones de la rutina productiva. Eleva con orgullo el emblema de aquellos que sólo buscan dejarse llevar por el ritmo y los deleites triviales de la vida moderna sin la plena consciencia de lo que hace.
 
 *Homo Barranquillerus* reposa en un intervalo atemporal recibido por herencia cultural de su antecesor *Homo Caribe*, de vez en cuando logra salir de su vaivén en la vida y logra entender que puede decidir sobre su futuro, aunque no consigue reconfigurar permanentemente su modo de vivir desprevenido, porque combina la distracción, casi esquizofrénica, por la novedad pasajera con el eterno vacile de cogerla suave.
