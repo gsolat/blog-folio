@@ -273,6 +273,15 @@ nav {
   border: 0;
 }
 
+.post .btn a:hover, .post a:active, .post a:focus {
+    background-color:transparent;
+    border: 0;
+    // color: #f27466;
+    font-size: 1em;
+    font-weight: 400;
+    border-radius: 0px;
+}
+
 .entry > h1 {
   font-size: 1em;
 }
