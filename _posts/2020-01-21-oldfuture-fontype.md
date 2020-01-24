@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OldFuture Fuente Tipográfica
+title: OldFuture Font
 author: Guillo Solano
 meta: Tipografía
 image: OldFuture-1_5-a.png
@@ -16,7 +16,7 @@ categories: []
 
 ![---]({{ site.baseurl }}/images/OldFuture-1_5-b.png)
 
-Forma estilizada y poco delicada se ubica sobre una estructura de evidente corte geométrico, muestra ángulos rectos y formas basicas para acercarse a un estilo moderno. En contraste con la simplicidad de lo moderno, exhibe elementos decorativos que recargan el caracter y ligeramente reducen el espacio vacio en medio de la estructura.
+Tipo de letra soportada sobre una estructura de evidente corte geométrico, muestra ángulos rectos y formas basicas para acercarse a un estilo tipgráfico moderno y a la vez retro. En contraste con la simplicidad de lo moderno, exhibe elementos decorativos que recargan cada caracter y ligeramente reducen el espacio vacio en medio de la estructura.
 
 Desarrollado mediante fases, a la fecha de este post se encuentra en la versión 1.5 [Descárgala!](https://github.com/gsolat/blog/blob/master/images/OldFuture%201.5.ttf?raw=true) <br>
 - 1.0 Mayúsculas.
