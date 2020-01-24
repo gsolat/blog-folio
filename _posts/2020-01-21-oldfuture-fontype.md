@@ -3,7 +3,7 @@ layout: post
 title: OldFuture Font
 author: Guillo Solano
 meta: Tipografía
-image: OldFuture-1_5-a.png
+image: OldFuture-1_5.png
 categories: []
 
 ---
@@ -11,7 +11,7 @@ categories: []
 ![---]({{ site.baseurl }}/images/OldFuture-1_5-a.png)
 
 
-# OldFuture
+# OldFuture Font
 ## _fuente tipográfica_
 
 ![---]({{ site.baseurl }}/images/OldFuture-1_5-b.png)
