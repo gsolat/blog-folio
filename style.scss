@@ -22,7 +22,7 @@ html {
 }
 
 body {
-    background: $cream;
+    background: $white;
   font: 16px/1.4 $ubuntu-font;
   color: $darkGray;
 }
@@ -114,7 +114,7 @@ strong, b {
 
 img {
   max-width: 100%;
-  border-radius: 4px;
+  border-radius: 2px;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -165,6 +165,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+
 
   @include mobile {
     text-align: center;
@@ -241,7 +242,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $coral;
+    color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: .5px;
@@ -388,7 +389,7 @@ nav {
   margin-top: 50px;
   // border-top: 1px solid #ddd;
   // border-bottom: 1px solid #ddd;
-  background-color: $cream;
+  background-color: $white;
 }
 
 footer {
