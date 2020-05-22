@@ -17,26 +17,20 @@ category: [Ilustración Digital, texto]
 
 Desplazarnos en dos pies fue un gran hito evolutivo para protegernos de las condiciones amenazantes del entorno. De cortos pasos a persecuciones, pudimos controlar la habilidad de caminar erguidos. No sólo ganamos un poco de seguridad en el entorno, sino que tocamos el punto más alto sin despegar los pies de la tierra.
 
-…
-
 *Depredador*
 
-Superamos con gran ventaja la inexorable situación que dicta la naturaleza: devorar o ser devorado. Como *Sapiens* tomamos decisiones que nos llevaron a convertirnos en un depredador sin amenaza directa en la cadena alimenticia, en gran parte debido a nuestra capacidad de adaptación, a nuestras habilidades para construir complejas alianzas sociales.
-
-…
+Superamos con gran ventaja la inexorable situación que dicta la naturaleza: devorar o ser devorado. Como *Sapiens* tomamos decisiones que nos llevaron a convertirnos en un depredador sin amenaza directa en la cadena alimenticia, en gran parte debido a nuestra capacidad de adaptación y gracias a nuestras capacidades para construir complejas alianzas sociales.
 
 *Conquistador*
 
-La historia recopila las luchas de pueblos, imperios y naciones por el poder. Conflictos con intereses políticos y económicos de trasfondo reducidos al enfrentamiento dual entre quiénes pertenecen y quiénes no. Los aliados y los alienados, los incluidos y los que están al margen. Ahora estamos en un momento histórico en dónde nos vemos uno al otro como amenazas por el hecho de pensar diferente, tener diferente nacionalidad, o tener diferentes ingresos económicos.
+La historia recopila luchas de poder entre pueblos, imperios y naciones. Conflictos con intereses políticos y económicos de trasfondo reducidos al enfrentamiento dual entre quiénes pertenecen y quiénes no. Los aliados y los alienados, los incluidos y los que están al margen. Ahora estamos en un momento histórico en dónde nos vemos uno al otro como amenazas por el hecho de pensar diferente, tener diferente nacionalidad, o tener diferentes ingresos económicos.
 
 …
 
-El bien y el mal crean una difusa línea dentro del sistema moral que todos usamos, pero ¿Cuál es el verdadero origen de la dualidad dentro de la mente? El enfrentamiento entre el bien y el mal es un elemento transcultural presente en casi todas las religiones y en la vida cotidiana de todo el mundo. Es la base de la autoridad estatal y el sistema de justicia.
+El bien y el mal crean una difusa línea dentro del sistema moral que todos usamos, pero ¿Cuál es el verdadero origen de la dualidad dentro de la mente? El enfrentamiento entre el bien y el mal es un elemento transcultural presente en casi todas las religiones y en la vida cotidiana de todo el mundo. Es la base de la autoridad de los estados y del sistema de justicia.
 
 …
 
-Los sapiens somos persistentes navegantes de la mente pero estamos construidos sobre los arquetipos de la memoria que suponen un área psíquica conocida para transitar. Como exploradores de la evolución aún nos cuesta trascender el estado binario/dual porque estamos inmersos en sus efectos. Si no logramos identificarlos no podemos hacer nada diferente a vivirlos inconscientemente como parte de nuestro fundamento cultural. Quizás por esto resulta normal para la mayoría de las personas asumir la vida desde dos posturas extremas irreconciliables.
+Los sapiens somos persistentes navegantes de la mente pero estamos construidos sobre los arquetipos de la memoria que suponen un área psíquica conocida y segura para transitar. Como exploradores de la evolución aún nos cuesta trascender el estado binario/dual porque estamos inmersos en sus efectos. Si no logramos identificarlos no podemos hacer nada diferente a vivirlos inconscientemente como parte de nuestro fundamento cultural. Quizás por esto resulta normal para la mayoría de las personas asumir la vida desde dos posturas extremas irreconciliables.
 
-Vivir entre dos opciones, ver la realidad con dos ojos, trabajar con dos manos, transitarla sobre dos pies y mantener el equilibrio con dos oidos
-
-...
+Vemos la realidad con dos ojos, trabajamos con dos manos, transitamos la vida sobre dos pies y mantenemos el equilibrio gracias a un par oidos.
