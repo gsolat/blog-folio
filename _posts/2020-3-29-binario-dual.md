@@ -31,6 +31,4 @@ El bien y el mal crean una difusa línea dentro del sistema moral que todos usam
 
 …
 
-Los sapiens somos persistentes navegantes de la mente pero estamos construidos sobre los arquetipos de la memoria que suponen un área psíquica conocida y segura para transitar. Como exploradores de la evolución aún nos cuesta trascender el estado binario/dual porque estamos inmersos en sus efectos. Si no logramos identificarlos no podemos hacer nada diferente a vivirlos inconscientemente como parte de nuestro fundamento cultural. Quizás por esto resulta normal para la mayoría de las personas asumir la vida desde dos posturas extremas irreconciliables.
-
-Vemos la realidad con dos ojos, trabajamos con dos manos, transitamos la vida sobre dos pies y mantenemos el equilibrio gracias a un par oidos.
+Los sapiens somos persistentes navegantes de la mente pero estamos construidos sobre los arquetipos de la memoria que suponen un área psíquica conocida y segura para transitar. Como exploradores de la evolución aún nos cuesta trascender el estado binario/dual porque estamos inmersos en sus efectos. Si no logramos identificarlos no podemos hacer nada diferente a vivirlos inconscientemente como parte de nuestro fundamento cultural. Quizás por esto puede resultar normal para la mayoría de las personas asumir la vida desde dos posturas extremas irreconciliables.
