@@ -2,7 +2,7 @@
 layout: post
 title: Ciclo Temporal Caribeño
 author: Guillo Solano
-meta: 32.5 * 23.5 cm / 2018
+meta: 29.7 * 29.7 cm / 2018
 image: ouroburos.png
 categories: [Ilustración Digital, Texto]
 
@@ -12,7 +12,7 @@ categories: [Ilustración Digital, Texto]
 
 
 # Ciclo Temporal Caribeño
-## _Dibujo digital / 30 * 20 cm / 2018_
+## _Dibujo digital / 29.7 * 29.7 cm / 2018_
 
 >Año nuevo<br>
 Vida nueva<br>
