@@ -17,11 +17,11 @@ category: [Ilustración Digital, texto]
 
 Desplazarnos en dos pies fue un gran hito evolutivo para protegernos de las condiciones amenazantes del entorno. De cortos pasos a persecuciones, pudimos controlar la habilidad de caminar erguidos. No sólo ganamos un poco de seguridad en el entorno, sino que tocamos el punto más alto sin despegar los pies de la tierra.
 
-*Depredador*
+*Depredador/Presa*
 
 Superamos con gran ventaja la inexorable situación que dicta la naturaleza: devorar o ser devorado. Como *Sapiens* tomamos decisiones que nos llevaron a convertirnos en un depredador sin amenaza directa en la cadena alimenticia, en gran parte debido a nuestra capacidad de adaptación y gracias a nuestras capacidades para construir complejas alianzas sociales.
 
-*Conquistador*
+*Conquistador/Conquistado*
 
 La historia recopila luchas de poder entre pueblos, imperios y naciones. Conflictos con intereses políticos y económicos de trasfondo reducidos al enfrentamiento dual entre quiénes pertenecen y quiénes no. Los aliados y los alienados, los incluidos y los que están al margen. Ahora estamos en un momento histórico en dónde nos vemos uno al otro como amenazas por el hecho de pensar diferente, tener diferente nacionalidad, o tener diferentes ingresos económicos.
 
