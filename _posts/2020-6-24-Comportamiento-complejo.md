@@ -10,7 +10,7 @@ category: [Ilustración Digital]
 
 ![---]({{ site.baseurl }}/images/handtool-2.jpg)
 
-# Memoria digital
+# Memoria digital 2
 ## _Dibujo digital / 29.7 * 42 cm / 2018_
 
 *Memoria digital*
