@@ -3,12 +3,12 @@ layout: post
 title: Memoria Digital
 author: Guillo Solano
 meta:  42 * 29.7 cm / 2020
-image: handtool-1.jpg
+image: handtool-2.jpg
 category: [Ilustración Digital]
 
 ---
 
-![---]({{ site.baseurl }}/images/handtool-1.jpg)
+![---]({{ site.baseurl }}/images/handtool-2.jpg)
 
 # Memoria digital
 ## _Dibujo digital / 29.7 * 42 cm / 2018_
