@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Memoria Digital
+title: Memoria Digital 2
 author: Guillo Solano
 meta:  42 * 29.7 cm / 2020
 image: handtool-2.jpg
