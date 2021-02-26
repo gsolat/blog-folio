@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Fuego menor
+title: Volatilidad
 author: Guillermo Solano
 meta:  29.7 * 42 cm / 2020
-image: fuego-menor.png
+image: volatilidad.png
 category: [Ilustración Digital]
 
 ---
@@ -18,7 +18,7 @@ Kata Upanishad.
 
 …
 
-![---]({{ site.baseurl }}/images/fuego-menor.png)
+![---]({{ site.baseurl }}/images/volatilidad.png)
 
 ## **Fuego menor** <br> Ilustración Digital / 29.7 * 42 cm <br> 2020
 …
