@@ -2,7 +2,7 @@
 layout: post
 title: Caso de Éxito II
 author: Guillermo Solano
-meta: 35 * 25 cm / 2018
+meta: 25 * 35 cm / 2018
 image: caso-de-exito-II.jpg
 categories: Collage
 

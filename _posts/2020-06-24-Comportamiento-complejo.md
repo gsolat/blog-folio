@@ -2,7 +2,7 @@
 layout: post
 title: Memoria Digital 2
 author: Guillermo Solano
-meta:  42 * 29.7 cm / 2020
+meta:  29.7 * 42 cm / 2020
 image: handtool-2.jpg
 category: [Ilustración Digital]
 

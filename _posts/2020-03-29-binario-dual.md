@@ -2,7 +2,7 @@
 layout: post
 title: Binario / Dual
 author: Guillermo Solano
-meta:  29.7 * 42 cm / 2020
+meta:  42 * 29.7 cm / 2020
 image: binario-dual.jpg
 category: [Ilustración Digital, texto]
 
