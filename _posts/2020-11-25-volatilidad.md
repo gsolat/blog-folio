@@ -8,7 +8,7 @@ category: [Ilustración Digital]
 
 ---
 
-Fuego menor
+Volatilidad
 ===============
 
 > El alma habita dentro de nosotros; es una llama del tamaño de un pulgar. Cuando se la reconoce como al Señor del pasado y del futuro,
@@ -20,5 +20,5 @@ Kata Upanishad.
 
 ![---]({{ site.baseurl }}/images/volatilidad.png)
 
-## **Fuego menor** <br> Ilustración Digital / 29.7 * 42 cm <br> 2020
+## **Volatilidad** <br> Ilustración Digital / 29.7 * 42 cm <br> 2020
 …
