@@ -11,7 +11,7 @@ category: [animacion]
 El Rebusque
 ===============
 
-## Altos niveles de desempleo e informalidad laboral en una sutil forma de verlo.
+## Una forma sutil de hacer referencia a los altos niveles de desempleo e informalidad laboral en el país.
 …
 
 ![---]({{ site.baseurl }}/images/el-rebusque.gif)
