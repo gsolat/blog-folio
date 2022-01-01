@@ -27,8 +27,8 @@ Con salud y con prosperidad<br>
 
 ## Cada fin de año cuando el tiempo termina para empezar nuevamente luego del Carnaval, evocamos con música y fiesta un tiempo mejor(?) celebrando sin importar si es un recuerdo nostálgico o una vaga esperanza.
 
-## Se deforma la idea de un no-tiempo *caribeño* cambiando su carácter meditativo y de profunda sabiduría por el gozo de corto alcance.
+## Este fenómeno es una deformación del no-tiempo *caribe*, dónde se cambia su carácter nostálgico/contemplativo, por el gozo de corto alcance.
 
-## Es una revelación frente el sentido histórico de la civilización, es meter la cabeza en el mar del ahora, sin darse cuenta de que este mar se encuentra en el océano del tiempo.
+## Como colectivo nos revelamos frente el sentido histórico de la civilización para meter la cabeza en el mar del ahora, sin darnos cuenta de que este mar se conecta con el océano del tiempo.
 
-## No es un defecto, sino un impulso que moldea todo el tiempo la identidad del ser caribe. surge la comentario: ¿Qué es la tradición sino una innovación que no ha podido ser superada?
+## No es un defecto de nuestra cultura, es más una característica que afirma la identidad de un pueblo sin rumbo frente al paso del tiempo. Aquí surge la inquietud: ¿Qué es la tradición, sino una innovación que no ha podido ser superada?
