@@ -4,8 +4,13 @@ layout: page
 permalink: /about/
 ---
 
-.
+El tránsito en medio de las estaciones,
+el camino recorrido por quienes han pasado y
+las señales que dejamos mientras vamos.
+Marcas que eventualmente serán borradas
+por el tiempo o por otros a su paso.
 
-La continua reflexión sobre el individuo y la especie conduce a redefinirse permanentemente y llevar la percepción más allá de la superficialidad dominante, hasta encontrar el sentido en medio del ruido. Creer en una versión del mundo es más saludable que tratar de verlo cómo realmente es, mantener esta rigurosidad en el ser requiere tener claro el significado propio de la sensatez, considerar la posibilidad de la desobediencia y asumir de manera resiliente los efectos debilitadores de la vida moderna.
+La era prevalece, avanzamos sin rendirnos ante ella, nos definimos constante y repetidamente. La percepción va más allá de la superficie,
+hasta encontrar el sentido en medio del ruido y el brillo.
 
 ## [correo@guillermosolano.co](mailto:correo@guillermosolano.co)
