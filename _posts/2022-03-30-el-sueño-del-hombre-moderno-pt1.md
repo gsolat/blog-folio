@@ -3,14 +3,14 @@ layout: post
 title: El sueño del hombre moderno pt 1
 author: Guillermo Solano
 meta:  42 * 29.7 cm c/u / 2022
-image: sueño-del-hombre-moderno-1.jpg
+image: sueno-del-hombre-moderno-1.jpg
 category: Collage
 
 ---
 
 # El sueño del hombre moderno pt 1
 
-![---]({{ site.baseurl }}/images/sueño-del-hombre-moderno-1.jpg)
+![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-1.jpg)
 
 El desarrollo de la civilización ha tenido gran alcance, sólo porque creemos en ello. Los condicionamientos impuestos por la cultura sobre nosotros, nos impide reconocer que tan profunda es nuestro convencimiento por el obsoleto paradigma de la modernidad.
 

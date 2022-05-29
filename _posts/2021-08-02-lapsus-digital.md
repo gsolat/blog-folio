@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lapsus Digital
+title: Lapsus Digital
 author: Guillermo Solano
 meta:  1500px * 1500px / 2021
 image: lapsus-digital.gif
