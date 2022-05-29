@@ -12,7 +12,7 @@ category: Collage
 
 ![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-1.jpg)
 
-El desarrollo de la civilización ha tenido gran alcance, sólo porque creemos en ello. Los condicionamientos impuestos por la cultura sobre nosotros, nos impide reconocer que tan profunda es nuestro convencimiento por el obsoleto paradigma de la modernidad.
+El desarrollo de la civilización ha tenido gran alcance, sólo porque creemos en ello. Los condicionamientos impuestos por la cultura sobre nosotros, nos impide reconocer que tan profundo es nuestro convencimiento por el obsoleto paradigma de la modernidad.
 
 <!--
 
