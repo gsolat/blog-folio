@@ -1,20 +1,20 @@
 ---
 layout: post
-title: El sueño del hombre moderno pt 1
+title: El sueño del hombre moderno pt 2
 author: Guillermo Solano
-excerpt: Atrapado en paradigmas ilusorios.
+excerpt: Metodologías confusas para construir verdades.
 meta:  42 * 29.7 cm / 2022
-image: sueno-del-hombre-moderno-1.jpg
+image: sueno-del-hombre-moderno-2.jpg
 category: Collage
 
 ---
 
 
-![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-1.jpg)
+![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-2.jpg)
 
-# El sueño del hombre moderno pt 1
+# El sueño del hombre moderno pt 2
 
-El desarrollo de la civilización ha tenido gran alcance, sólo porque creemos en ello. Los condicionamientos impuestos por la cultura sobre nosotros, nos impide reconocer que tan profundo es nuestro convencimiento por el obsoleto paradigma de la modernidad.
+La visión materialista de la vida nos lleva a recorrer círculos que no revelan suficiente información para darle sentido al paradigma.
 
 <!--
 

@@ -278,9 +278,14 @@ nav {
     background-color:transparent;
     border: 0;
     // color: #f27466;
-    font-size: 1em;
+    // font-size: 1em;
     font-weight: 400;
     border-radius: 0px;
+}
+.post-description {
+    margin: 10px 0;
+    font-size: 0.9em;
+    font-weight: 100;
 }
 
 .entry > h1 {
@@ -350,7 +355,7 @@ nav {
   .btn {
       margin-top: 10px;
   }
-  .btn a {
+  .btn a:hover, a:active, a:focus {
       background-color: $coral;
       color: #fff;
       font-size: .7em;
@@ -358,7 +363,7 @@ nav {
       border: 1px solid $coral;
       border-radius: 2px;
   }
-  .btn a:hover, a:active, a:focus {
+  .btn a {
       background-color: transparent;
       border: 1px solid $coral;
       color: $coral;

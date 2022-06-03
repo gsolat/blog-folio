@@ -2,6 +2,7 @@
 layout: post
 title: Imaginando el territorio
 author: Guillermo Solano
+excerpt: El mismo territorio diferentes variaciones en el imaginario colectivo.
 meta:  Serie de 7 piezas<br> 21cm * 27cm / 2021
 image: mapa-superposicion.jpg
 category: Mapas

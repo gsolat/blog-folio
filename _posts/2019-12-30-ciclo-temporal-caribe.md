@@ -2,6 +2,7 @@
 layout: post
 title: Ciclo Temporal Caribeño
 author: Guillermo Solano
+excerpt: No es un defecto de nuestra cultura, es más una característica.
 meta: 29.7 * 29.7 cm / 2018
 image: ouroburos.png
 categories: [Ilustración Digital, Texto]
@@ -10,9 +11,7 @@ categories: [Ilustración Digital, Texto]
 
 ![---]({{ site.baseurl }}/images/ouroburos.png)
 
-
 # Ciclo Temporal Caribeño
-## _Dibujo digital / 29.7 * 29.7 cm / 2018_
 
 >Año nuevo<br>
 Vida nueva<br>
@@ -25,10 +24,10 @@ Con salud y con prosperidad<br>
 
 <br>
 
-## Cada fin de año cuando el tiempo termina para empezar nuevamente luego del Carnaval, evocamos con música y fiesta un tiempo mejor(?) celebrando sin importar si es un recuerdo nostálgico o una vaga esperanza.
+Cada fin de año cuando el tiempo termina para empezar nuevamente luego del Carnaval, evocamos con música y fiesta un tiempo mejor(?) celebrando sin importar si es un recuerdo nostálgico o una vaga esperanza.
 
-## Este fenómeno es una deformación del no-tiempo *caribe*, dónde se cambia su carácter nostálgico/contemplativo, por el gozo de corto alcance.
+Este fenómeno es una deformación del no-tiempo *caribe*, dónde se cambia su carácter nostálgico/contemplativo, por el gozo de corto alcance.
 
-## Como colectivo nos revelamos frente el sentido histórico de la civilización para meter la cabeza en el mar del ahora, sin darnos cuenta de que este mar se conecta con el océano del tiempo.
+Como colectivo nos revelamos frente el sentido histórico de la civilización para meter la cabeza en el mar del ahora, sin darnos cuenta de que este mar se conecta con el océano del tiempo.
 
-## No es un defecto de nuestra cultura, es más una característica que afirma la identidad de un pueblo sin rumbo frente al paso del tiempo. Aquí surge la inquietud: ¿Qué es la tradición, sino una innovación que no ha podido ser superada?
+No es un defecto de nuestra cultura, es más una característica que afirma la identidad de un pueblo sin rumbo frente al paso del tiempo. Aquí surge la inquietud: ¿Qué es la tradición, sino una innovación que no ha podido ser superada?

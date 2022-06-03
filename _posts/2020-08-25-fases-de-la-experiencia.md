@@ -2,14 +2,14 @@
 layout: post
 title: Fases de la experiencia
 author: Guillermo Solano
+excerpt: El asombro despierta la atención, luego los sentidos se concentran.
 meta:  42 * 29.7 cm / 2020
 image: R-triptico-2020.jpg
 category: [Escultura]
 
 ---
 
-Fases de la experiencia
-===============
+#Fases de la experiencia
 
 ## *Episodios del aprendizaje recreados con formas básicas, hechas en madera de segundo uso.*
 
