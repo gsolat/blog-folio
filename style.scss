@@ -264,17 +264,30 @@ nav {
   border-bottom: 1px solid $lightGray;
 }
 
-.posts > .post > .post-title > h1 {
+.post > .post-title > h1 {
   font-size: 1.2em;
+  color: $coral;
   margin-bottom: 0;
 }
 
-.posts > .post > .post-title a:focus, a:active {
-  font-size: inherit;
+.post > .post-title a:hover, a:focus, a:active {
   border: 0;
+  background-color:transparent;
+  border: 0;
+  // color: #f27466;
+  // font-size: 1em;
+  font-weight: 100;
+
 }
 
-.post .btn a:hover, .post a:active, .post a:focus {
+.posts > .post:last-child {
+  padding-bottom: 1em;
+  border-bottom: none;
+}
+
+.post .btn
+// a:hover, .post a:active, .post a:focus
+{
     background-color:transparent;
     border: 0;
     // color: #f27466;
@@ -301,18 +314,7 @@ nav {
 .author {
   font-size: .7em;
 }
-
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-.posts > .post > #index-tags a , a:active, a:focus {
-    font-size: .7em;
-    font-weight: 100;
-    border: 0;
-}
-
-.post > #post-tags a , a:active, a:focus {
+.post-categories > a , a:active,  a:focus {
     font-size: .7em;
     font-weight: 100;
     border: 0;
@@ -334,6 +336,7 @@ nav {
 }
 
 .post {
+
   blockquote {
     margin: .5em .8em;
     border-left: 1px solid $gray;
@@ -353,9 +356,10 @@ nav {
     text-transform: uppercase;
   }
   .btn {
+
       margin-top: 10px;
   }
-  .btn a:hover, a:active, a:focus {
+  .btn a:hover, .btn a:active, .btn a:focus {
       background-color: $coral;
       color: #fff;
       font-size: .7em;
