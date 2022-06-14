@@ -2,7 +2,7 @@
 layout: post
 title: Insostenible
 author: Guillermo Solano
-excerpt: Inestabilidad, y errático movimiento del ciudadano trabajador.
+excerpt: Inestable y errático movimiento del ciudadano trabajador.
 meta:  3000 * 2250 px / 2021
 image: insostenible.gif
 category: [Animacion]
