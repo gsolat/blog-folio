@@ -4,6 +4,8 @@ layout: page
 permalink: /about/
 ---
 
+![---]({{ site.baseurl }}/images/index.png)
+
 El tránsito en medio de las estaciones.<br>
 El camino recorrido por quienes han pasado,<br>
 señales que dejamos mientras vamos,<br>
