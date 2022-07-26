@@ -6,15 +6,15 @@ permalink: /about/
 
 ![---]({{ site.baseurl }}/images/index.png)
 
-El tránsito en medio de las estaciones.<br>
-El camino recorrido por quienes han pasado,<br>
-señales que dejamos mientras vamos,<br>
-marcas que eventualmente serán borradas<br>
-por el paso del tiempo o de otros.<br>
+El recorrido en medio de las estaciones,<br>
+el camino transitado por quienes han pasado,<br>
+dejando señales tras el afán,
+marcas que eventualmente<br> serán borradas
+por el paso del tiempo o por el afán de otros.<br>
 
-La era prevalece, avanzamos sin rendirnos ante ella,<br>
-nos definimos constante y repetidamente. <br>
-La percepción va más allá del instante, de la superficie,<br>
-encuentra el sentido en medio del ruido y el brillo.
+La era prevalece y avanzamos sin rendirnos ante ella,<br>
+nos definimos constante y repetidamente; llevando<br>
+la percepción más allá del instante, de la superficie,<br>
+hasta encontrar el sentido en medio del ruido y el brillo.
 
-## [correo@guillermosolano.co](mailto:correo@guillermosolano.co)
+<!-- ## [correo@guillermosolano.co](mailto:correo@guillermosolano.co) -->
