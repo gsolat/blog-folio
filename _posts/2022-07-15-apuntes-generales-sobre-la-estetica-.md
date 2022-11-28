@@ -6,12 +6,13 @@ excerpt: La reflexividad sobre el arte plantea una discusión que pone sobre la 
 image: estetica-silvestre.jpg
 category: Texto
 
+
 ---
 
 
-<!-- ![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-2.jpg) -->
+<!-- ![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-2.jpg) image: estetica-silvestre.jpg -->
 
-# Apuntes breves sobre la Estética
+# Apuntes generales sobre la Estética
 
 El pensamiento alrededor de la obra de arte como objeto de convergencia de miradas en la Europa renacentista sólo alcanzó a definirla como el resultado de una experiencia sensorial orientada por el autor a través de su obra, que incluía motivos, colores, formas, texturas, composición, equilibrio. Se buscaba un concepto de verdad basado en la armonía clásica de los elementos de la obra como requisito para la adecuada valoración crítica. La obra de un artista se empezaba a identificar como un recipiente de características que limitaban la interacción y condicionaban al público, para ajustarse a reglas establecidas por modelos de pensamiento sobre lo bello heredados de la herencia platónica.
 
