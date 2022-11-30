@@ -235,6 +235,9 @@ nav {
   font-family: $barlow;
   font-size: .8em;
 
+nav a, a:active, a:focus {
+    font-size: 1em;
+}
 
   @include mobile {
     float: none;
