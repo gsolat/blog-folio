@@ -8,6 +8,8 @@
 @import "reset";
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap&family=Barlow&display=swap');
+
 
 
 
@@ -24,7 +26,7 @@ html {
 
 body {
     background: $white;
-  font: 16px/1.4 $ubuntu-font;
+  font: 16px/1.4 $barlow;
   color: $darkGray;
 }
 
@@ -36,7 +38,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $ubuntu-font;
+  font-family: $barlow;
   color: $darkGray;
   font-weight: 300;
 
@@ -210,7 +212,7 @@ img {
   margin: 5px 0 0 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $ubuntu-font;
+  font-family: $barlow;
   font-weight: 300;
   font-size: 1.2em;
   letter-spacing: normal;
@@ -230,7 +232,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $ubuntu-font;
+  font-family: $barlow;
   font-size: .8em;
 
 
@@ -270,12 +272,12 @@ nav {
   margin-bottom: 0;
 }
 
-.post > .post-title a:hover, a:focus, a:active {
+.post > .post-title > h1 > a:hover, a:focus, a:active {
   border: 0;
   background-color:transparent;
   border: 0;
   // color: #f27466;
-  // font-size: 1em;
+  font-size: 1em;
   font-weight: 100;
 
 }
@@ -409,7 +411,7 @@ nav {
 // categories
 
 .archive-item a, a:active, a:focus {
-    font-size: .8em
+    font-size: .7em
 }
 
 footer {
