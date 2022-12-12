@@ -13,7 +13,7 @@ category: Ilustración Digital
 
 ![---]({{ site.baseurl }}/images/la-sabiduria-de-la-serpiente.jpg)
 
-# Apuntes generales sobre la Estética
+# La sabiduría de la serpiente
 
 >Nuestro conocimiento del ser humano es tan parcial y distorsionado... Estamos frente al mal y
 no sólo ignoramos lo que se halla ante nosotros sino que tampoco tenemos la menor idea de cómo debemos
