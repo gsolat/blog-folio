@@ -11,7 +11,7 @@ category: Escultura
 
 
 
-![---]({{ site.baseurl }}/images/los-giros-de-la disonancia.jpg)
+![---]({{ site.baseurl }}/images/los-giros-de-la-disonancia.jpg)
 
 # Los giros de la disonancia cognitiva
 
