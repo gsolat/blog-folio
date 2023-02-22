@@ -2,7 +2,7 @@
 layout: post
 title: Apuntes sobre Geoestética
 author: Guillermo Solano
-excerpt: Materiales gravitando alrededor de contradicciones iniciales.
+excerpt: El término Geoestética hace referencia a los fenómenos culturales que se dan en las representaciones estéticas en relación con un territorio geográfico. Se define por las formas en que la realidad de un localidad se expresa y se transforma para dar origen a manifestaciones estéticas propias, aunque puedan estar insertadas en marcos de referencia globales.
 image: geopolitica-colombia.jpg
 category: Texto
 
