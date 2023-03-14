@@ -1,20 +1,20 @@
 ---
 layout: post
-title: El sueño del hombre moderno pt 2
+title: El sueño del hombre moderno pt 3
 author: Guillermo Solano
 excerpt: Metodologías confusas para construir verdades.
 meta:  42 * 29.7 cm / 2022
-image: sueno-del-hombre-moderno-2.jpg
+image: sueno-del-hombre-moderno-3.jpg
 category: Collage
 
 ---
 
 
-![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-2.jpg)
+![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-3.jpg)
 
-# El sueño del hombre moderno pt 2
+# El sueño del hombre moderno pt 3
 
-El acercamiento materialista sobre la vida es una máquina que escupe conceptos para sostener las esferas humanas, mientras se entretiene construyendo un muro de verdades irrefutables.
+La medición de la realidad desde una perspectiva de corto alcance es una ilusón de progreso, un voto de fe hacia el pasado inmutable como constructor de un futuro único. 
 
 <!--
 
