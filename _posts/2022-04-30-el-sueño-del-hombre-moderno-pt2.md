@@ -14,7 +14,7 @@ category: Collage
 
 # El sueño del hombre moderno pt 2
 
-El acercamiento materialista sobre la vida es una máquina que escupe conceptos para sostener las esferas humanas, mientras se entretiene construyendo un muro de verdades irrefutables.
+El acercamiento materialista sobre la vida es una actitud mecanicista que produce conceptos para sostener las esferas antrópicas sobre el planeta, cada bloque de la realidad construida es un bloque más en la prisión de la percepción.
 
 <!--
 

@@ -2,7 +2,7 @@
 layout: post
 title: El sueño del hombre moderno pt 3
 author: Guillermo Solano
-excerpt: Metodologías confusas para construir verdades.
+excerpt: Medidas de corto alcance.
 meta:  42 * 29.7 cm / 2022
 image: sueno-del-hombre-moderno-3.jpg
 category: Collage
@@ -14,7 +14,7 @@ category: Collage
 
 # El sueño del hombre moderno pt 3
 
-La medición de la realidad desde una perspectiva de corto alcance es una ilusón de progreso, un voto de fe hacia el pasado inmutable como constructor de un futuro único. 
+Los sistemas de medición y el análisis de los acontecimientos sobre la realidad, implementados desde perspectivas de corto alcance, consolidan la ilusón de progreso. La aceleración en la línea de tiempo no se traduce como avances de la civilización. 
 
 <!--
 
