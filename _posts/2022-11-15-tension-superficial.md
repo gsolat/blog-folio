@@ -3,7 +3,7 @@ layout: post
 title: Tensión superficial
 author: Guillermo Solano
 excerpt: El sentido de las fuerzas y el propósito de la experiencia.
-meta: 65 * 90 cm / 2022 - c/u
+meta: Díptico <br> 65 * 90 cm / 2022
 image: tension-superficial.jpg
 category: Ilustración Digital
 
