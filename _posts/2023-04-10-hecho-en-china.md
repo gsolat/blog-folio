@@ -25,8 +25,10 @@ category: Mapas
 
 # Made in China
 
-La voracidad comercial china, manifestada en La elaboración de materiales y productos a precios extremadamente competitivos es una ventaja que China utiliza para abarcar terreno comercial internacionalmente. 
+La voracidad comercial china, manifestada en la elaboración de materiales y productos a precios extremadamente competitivos es una ventaja utilizada por el país para abarcar terreno en la economía internacional.
 
-La producción material rotulada como hecho en China, que en otro momento fue una señal de baja calidad, hoy es un estandar mundial; una norma que aplica a escala global para traspasar fronteras llenando los mercados de objetos e insumos, tranportando estéticas camufladas en objetos que se entrelazan con los usos locales generando nuevas formas de apropiación sincrética.
+La producción material rotulada como Hecho en China, que en otro momento fue una señal de dudosa calidad, hoy es un estándar mundial; una norma aplicada a escala global para traspasar fronteras llenando los mercados locales de objetos de consumo e insumos de fabricación. 
+
+Bajo esta transacción ocurre también una transferencia de referencias estéticas que corresponden a la intención de posicionar valores de la cultura china en occidente, un constante <i>recorderis</i> de que existe otro mundo dentro del planeta conocido… Desde la productividad industrial y el comercio internacional, China teje un plano cartográfico para relatar la permeabilidad de las fronteras conocidas en los tiempos actuales. 
 
 …
