@@ -19,23 +19,23 @@ category: Fotografia
 <br>
 
 
-![---]({{ site.baseurl }}/images/s-1.jpg)
+![---]({{ site.baseurl }}/images/S-1.jpg)
 
-![---]({{ site.baseurl }}/images/s-2.jpg)
+![---]({{ site.baseurl }}/images/S-2.jpg)
 
-![---]({{ site.baseurl }}/images/s-3.jpg)
+![---]({{ site.baseurl }}/images/S-3.jpg)
 
-![---]({{ site.baseurl }}/images/s-4.jpg)
+![---]({{ site.baseurl }}/images/S-4.jpg)
 
-![---]({{ site.baseurl }}/images/s-5.jpg)
+![---]({{ site.baseurl }}/images/S-5.jpg)
 
-![---]({{ site.baseurl }}/images/s-6.jpg)
+![---]({{ site.baseurl }}/images/S-6.jpg)
 
-![---]({{ site.baseurl }}/images/s-7.jpg)
+![---]({{ site.baseurl }}/images/S-7.jpg)
 
-![---]({{ site.baseurl }}/images/s-8.jpg)
+![---]({{ site.baseurl }}/images/S-8.jpg)
 
-![---]({{ site.baseurl }}/images/s-9.jpg)
+![---]({{ site.baseurl }}/images/S-9.jpg)
 
 <br>
 
