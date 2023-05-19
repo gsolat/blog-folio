@@ -5,7 +5,7 @@ author: Guillermo Solano
 excerpt: Serie fotográfica sobre la sombra.
 meta: 9 fotografías 1500px * 2000px
 image: secuencia-luz-sombra.jpg
-category: Fotografía
+category: Fotografia
 
 ---
 
