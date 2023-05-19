@@ -19,23 +19,23 @@ category: Fotografía
 <br>
 
 
-![---]({{ site.baseurl }}/images/ensayo-sombra/s-1.jpg)
+![---]({{ site.baseurl }}/images/s-1.jpg)
 
-![---]({{ site.baseurl }}/images/ensayo-sombra/s-2.jpg)
+![---]({{ site.baseurl }}/images/s-2.jpg)
 
-![---]({{ site.baseurl }}/images/ensayo-sombra/s-3.jpg)
+![---]({{ site.baseurl }}/images/s-3.jpg)
 
-![---]({{ site.baseurl }}/images/ensayo-sombra/s-4.jpg)
+![---]({{ site.baseurl }}/images/s-4.jpg)
 
-![---]({{ site.baseurl }}/images/ensayo-sombra/s-5.jpg)
+![---]({{ site.baseurl }}/images/s-5.jpg)
 
-![---]({{ site.baseurl }}/images/ensayo-sombra/s-6.jpg)
+![---]({{ site.baseurl }}/images/s-6.jpg)
 
-![---]({{ site.baseurl }}/images/ensayo-sombra/s-7.jpg)
+![---]({{ site.baseurl }}/images/s-7.jpg)
 
-![---]({{ site.baseurl }}/images/ensayo-sombra/s-8.jpg)
+![---]({{ site.baseurl }}/images/s-8.jpg)
 
-![---]({{ site.baseurl }}/images/ensayo-sombra/s-9.jpg)
+![---]({{ site.baseurl }}/images/s-9.jpg)
 
 <br>
 
