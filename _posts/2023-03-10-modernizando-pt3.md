@@ -1,20 +1,21 @@
 ---
 layout: post
-title: El sueño del hombre moderno pt 2
+title: Modernizando Pt3 
 author: Guillermo Solano
-excerpt: Metodologías confusas para construir verdades.
+excerpt: Medidas de corto alcance.
 meta:  42 * 29.7 cm / 2022
-image: sueno-del-hombre-moderno-2.jpg
+image: sueno-del-hombre-moderno-3.jpg
 category: Collage
 
 ---
 
 
-![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-2.jpg)
+![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-3.jpg)
 
-# El sueño del hombre moderno pt 2
+# Modernizando Pt 3
 
-El acercamiento materialista sobre la vida es una actitud mecanicista que produce conceptos para sostener las esferas antrópicas sobre el planeta, cada bloque de la realidad construida es un bloque más en la prisión de la percepción.
+Cuando la ilusión de progreso acelera la línea de tiempo, las medidas y los análisis solo indican que se avanza por la ruta equivocada.
+
 
 <!--
 
