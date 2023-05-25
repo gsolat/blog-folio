@@ -4,7 +4,7 @@ title: El alimento y la tierra
 author: Guillermo Solano
 excerpt: La propiedad sobre el suelo es un factor determinante para instalar estructuras de control sobre la naturaleza. Desde los tiempos de la conquista los territorios americanos han sido ocupados y explotados para la extracción de recursos, en tiempo pasado por colonos españoles, hoy por empresas y terratenientes. Dentro de los límites políticos de Colombia, se encuentra un vasto territorio, diverso en su geografía y enorme en su extensión de flora y fauna.
 image: geopolitica-colombia.jpg
-category: Texto. Fotografia
+category: Fotografia
 
 ---
 
