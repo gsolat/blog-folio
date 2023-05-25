@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Apuntes sobre Geoestética
+title: El alimento y la tierra
 author: Guillermo Solano
-excerpt: El término Geoestética hace referencia a los fenómenos culturales que se dan en las representaciones estéticas en relación con un territorio geográfico. Se define por las formas en que la realidad de un localidad se expresa y se transforma para dar origen a manifestaciones estéticas propias, aunque puedan estar insertadas en marcos de referencia globales.
+excerpt: La propiedad sobre el suelo es un factor determinante para instalar estructuras de control sobre la naturaleza. Desde los tiempos de la conquista los territorios americanos han sido ocupados y explotados para la extracción de recursos, en tiempo pasado por colonos españoles, hoy por empresas y terratenientes. Dentro de los límites políticos de Colombia, se encuentra un vasto territorio, diverso en su geografía y enorme en su extensión de flora y fauna.
 image: geopolitica-colombia.jpg
 category: Texto
 
