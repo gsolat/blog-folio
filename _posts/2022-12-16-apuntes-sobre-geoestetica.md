@@ -4,10 +4,23 @@ title: El alimento y la tierra
 author: Guillermo Solano
 excerpt: La propiedad sobre el suelo es un factor determinante para instalar estructuras de control sobre la naturaleza. Desde los tiempos de la conquista los territorios americanos han sido ocupados y explotados para la extracción de recursos, en tiempo pasado por colonos españoles, hoy por empresas y terratenientes. Dentro de los límites políticos de Colombia, se encuentra un vasto territorio, diverso en su geografía y enorme en su extensión de flora y fauna.
 image: geopolitica-colombia.jpg
-category: Texto
+category: Texto. Fotografia
 
 ---
 
+# El alimento y la tierra
+
+
+![---]({{ site.baseurl }}/images/geopolitica-colombia.jpg)
+
+La propiedad sobre el suelo es un factor determinante para instalar estructuras de control sobre la naturaleza. Desde los tiempos de la conquista los territorios americanos han sido
+ocupados y explotados para la extracción de recursos, en tiempo pasado por colonos españoles, hoy por empresas y terratenientes. Dentro de los límites políticos de Colombia, se encuentra un vasto territorio, diverso en su geografía y enorme en su extensión de flora y fauna. 
+
+El uso del suelo fértil para la producción alimentaria y el territorio salvaje para la
+conservación de la vida, resulta muy importante para la sostenibilidad de un país con inseguridad alimentaria y proyecta un caso ejemplar para la región cuando amenazan globalmente tiempos de guerra, escasez de recursos, y crisis económica. La tierra puede producir alimentos, pero no puede alimentar a las personas; su posesión sin darle un uso responsable y utilizarla para acumulación de poder es una acción inverosímil como tomar un
+bocado de tierra.
+
+...
 
 
 # Apuntes sobre Geoestética
@@ -31,14 +44,7 @@ Los pueblos latinoamericanos van descubriendo su valor cuando la imposición de 
 
 ...
 
-![---]({{ site.baseurl }}/images/geopolitica-colombia.jpg)
 
-La propiedad sobre el suelo es un factor determinante para instalar estructuras de control sobre la naturaleza. Desde los tiempos de la conquista los territorios americanos han sido
-ocupados y explotados para la extracción de recursos, en tiempo pasado por colonos españoles, hoy por empresas y terratenientes. Dentro de los límites políticos de Colombia, se encuentra un vasto territorio, diverso en su geografía y enorme en su extensión de flora y fauna. 
-
-El uso del suelo fértil para la producción alimentaria y el territorio salvaje para la
-conservación de la vida, resulta muy importante para la sostenibilidad de un país con inseguridad alimentaria y proyecta un caso ejemplar para la región cuando amenazan globalmente tiempos de guerra, escasez de recursos, y crisis económica. La tierra puede producir alimentos, pero no puede alimentar a las personas; su posesión sin darle un uso responsable y utilizarla para acumulación de poder es una acción inverosímil como tomar un
-bocado de tierra.
 
 
 
