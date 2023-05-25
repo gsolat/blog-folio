@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modernizado Pt2
+title: Modernizados Pt2
 author: Guillermo Solano
 excerpt: Metodologías para construir verdades.
 meta:  42 * 29.7 cm / 2022
@@ -12,7 +12,7 @@ category: Collage
 
 ![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-2.jpg)
 
-# Modernizado Pt2
+# Modernizados Pt2
 
 Las ideas y conceptos sostienen los sentidos sobre la realidad. No todo es una máquina, no toda realidad es verificable. Ninguna mirada es objetiva.
 

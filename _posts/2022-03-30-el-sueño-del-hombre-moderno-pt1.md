@@ -12,7 +12,7 @@ category: Collage
 
 ![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-1.jpg)
 
-# Modernizado Pt1
+# Modernizados Pt1
 
 Estamos convencidos de los avances científicos y tecnológicos de la civilización, sobretodo de la forma como nos acostumbramos a ver todo lo que sucede. La cultura, en voces de algunos, nos convence de lo válido de esta perspectiva para el progreso de la humanidad, aunque al mismo tiempo, no nos deje ver el panorama completo e incierto de la realidad.
 
