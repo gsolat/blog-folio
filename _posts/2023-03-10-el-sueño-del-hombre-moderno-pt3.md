@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modernizados Pt3 
+title: El sueño del hombre moderno Pt3 
 author: Guillermo Solano
 excerpt: Medidas de corto alcance.
 meta:  42 * 29.7 cm / 2022
@@ -12,7 +12,7 @@ category: Collage
 
 ![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-3.jpg)
 
-# Modernizados Pt3
+# El sueño del hombre moderno Pt 3
 
 Cuando la ilusión de progreso acelera la línea de tiempo, las medidas y los análisis solo indican que se avanza por la ruta equivocada.
 

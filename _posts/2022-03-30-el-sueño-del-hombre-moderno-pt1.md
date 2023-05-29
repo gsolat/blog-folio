@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modernizado Pt1
+title: El sueño del hombre moderno Pt1
 author: Guillermo Solano
 excerpt: La trampa de los paradigmas.
 meta:  42 * 29.7 cm / 2022
@@ -12,9 +12,9 @@ category: Collage
 
 ![---]({{ site.baseurl }}/images/sueno-del-hombre-moderno-1.jpg)
 
-# Modernizados Pt1
+# El sueño del hombre moderno Pt1
 
-Estamos convencidos de los avances científicos y tecnológicos de la civilización, sobretodo de la forma como nos acostumbramos a ver todo lo que sucede. La cultura, en voces de algunos, nos convence de lo válido de esta perspectiva para el progreso de la humanidad, aunque al mismo tiempo, no nos deje ver el panorama completo e incierto de la realidad.
+El discurso establcido intenta convencernos de los avances científicos y tecnológicos de la civilización, sobre todo de la forma como nos acostumbramos a ver todo lo que sucede. La cultura, en voces de algunos, nos convence de lo válido de esta perspectiva para el progreso de la humanidad, aunque al mismo tiempo, no nos deje ver el panorama completo e incierto de la realidad.
 
 <!--
 
